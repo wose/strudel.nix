@@ -100,6 +100,7 @@
                   pnpm
                 ];
                 text = ''
+                  export ASTRO_TELEMETRY_DISABLED=1
                   pushd ${strudel_pkg}
                   pnpm run start -- --open
                 '';
