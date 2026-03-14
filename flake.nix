@@ -55,7 +55,7 @@
               pname = "strudel_pnpm_deps";
               src = strudel;
               fetcherVersion = 3;
-              hash = "sha256-UncT0yFpdvajXy/OQHKl8pnQQB8J7VstDjwCuDSCkBA=";
+              hash = "sha256-p3bLPpCz4Wnbsnj6PAcl/ByScjUhqyeXJwMSffs/kyA=";
             };
 
             buildPhase = "pnpm run build";

@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1769018530,
-        "narHash": "sha256-MJ27Cy2NtBEV5tsK+YraYr2g851f3Fl1LpNHDzDX15c=",
+        "lastModified": 1773389992,
+        "narHash": "sha256-wvfdLLWJ2I9oEpDd9PfMA8osfIZicoQ5MT1jIwNs9Tk=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "88d3861acdd3d2f0e361767018218e51810df8a1",
+        "rev": "c06b4ae3d6599a672a6210b7021d699c351eebda",
         "type": "github"
       },
       "original": {
@@ -25,11 +25,11 @@
     "strudel": {
       "flake": false,
       "locked": {
-        "lastModified": 1769116501,
-        "narHash": "sha256-bSr+VuJnmW/mQ9EAAFkjf1kYTT8anUwFHez1MaI8a9o=",
+        "lastModified": 1771540044,
+        "narHash": "sha256-3E9oykOA7YSy/40JqFcQVP64Ga73PI5oNQvOEH1sEiM=",
         "ref": "refs/heads/main",
-        "rev": "28db6d1fd44764cec1c78957093090c6b2e9eaf1",
-        "revCount": 6164,
+        "rev": "4a801ab668e00c5dcc8c4abf586ced4b1af0432e",
+        "revCount": 6327,
         "type": "git",
         "url": "https://codeberg.org/uzu/strudel"
       },
